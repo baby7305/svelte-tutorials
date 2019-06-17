@@ -1,1 +1,5 @@
-<h1>Hello baby!</h1>
+<script>
+	import Nested from './Nested.svelte';
+</script>
+
+<Nested answer={42}/>
