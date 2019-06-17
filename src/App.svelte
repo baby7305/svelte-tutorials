@@ -1,1 +1,5 @@
-<h1>Hello baby!</h1>
+<script>
+	let name = 'baby';
+</script>
+
+<h1>Hello {name}!</h1>
