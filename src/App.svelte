@@ -1,6 +1,9 @@
-<script>
-	let src = 'tutorial/image.gif';
-	let name = 'Rick Astley';
-</script>
+<style>
+	p {
+		color: purple;
+		font-family: 'Comic Sans MS';
+		font-size: 2em;
+	}
+</style>
 
-<img {src} alt="{name} dances.">
+<p>This is a paragraph.</p>
