@@ -1,5 +1,6 @@
 <script>
-	let name = 'baby';
+	let src = 'tutorial/image.gif';
+	let name = 'Rick Astley';
 </script>
 
-<h1>Hello {name}!</h1>
+<img {src} alt="{name} dances.">
